@@ -14,7 +14,7 @@ body {
   font-family: "Poppins", sans-serif;
 }
 main {
-  background-image: url(.bg-intro-desktop.png);
+  background-image: url(./bg-intro-desktop.png);
   background-color: hsl(0, 100%, 74%);
   /* padding: 3em; */
   display: flex;
